@@ -1,0 +1,15 @@
+1. Jelaskan secara detil metode kueri pencarian dan similarity search pada proyek pengembangan STBI Anda !
+jawaban : metode kueri pencarian dan similarity search pada proyek STBI kami menggunakan Vector Space Model (VSM), pada metode VSM diitung bobot dari setiap term yang ada dalam semua dokumen dan kueri user. term merupakan kata / kumpulan kata yang merupakan ekspresi verbal dari suatu pengertian, Penentuan relevansi dokumen dengan kueri dipandang sebagai pengukuran kesamaan antara vector dokumen dengan vector kueri. untuk menghitung VSM di perlukan beberapa tahapan yaitu : term frequency (tf), inverse document frequency (idf), term frequency inverse document frequency (tf– idf), jarak query dan dokumen, pengukuran similaritas query document (inner product), dan pengukuran Cosine Similarity (menghitung nilai cosine sudut antara dua vektor).
+
+2. Jelaskan secara detil metode evaluasi yang Anda gunakan untuk mengevaluasi prototye STBI Anda! Diskusikan pula hasil evaluasi yang diperoleh
+jawaban : untuk mengevaluasi prototype STBI ini kami menggunakan perhitungan precision dan recall. precision merupakan rasio dokumen yang relevan yang berasil di temu kembalikan dari keseluruhan dokumen, sedangkan recall adalah rasio antar dokumen yang relevan yang berhasil ditemu kembalikan dari seluruh dokumen relevan yang ada didalam sistem. rumus yang di gunakan untuk menghitung precission dan recall adalah sebagai berikut , precission : jumlah dokumen relevan yang diambil / jumlah dokumen yang di ambil, recall  : jumlah dokumen relevan yang di ambil / jumlah dokumen yang relevan. dengan menggunakan rumus di atas hasil evaluasi yang kami adapat adalah precision dan recall yang dilakukan pada query yang terdiri dari 2 kata memiliki nilai rata-rata precision sebesar 60.30 dan nilai rata-rata recall sebesar 50.83. Untuk nilai rata-rata runtime sebesar 1.597.
+
+3. Jelaskan perbedaan antara sistem rekomendasi dan sistem tanya jawab! menurut anda proyek STBI Anda masuk kategori mana ?
+jawaban : 
+
+4. a. buatlahh rangkuman lengkap proyek dari proyek STBI yang anda miliki. Rangkuman memiliki pembagian introduction, method, result, secision dan references!
+jawaban : 
+
+Introduction 
+
+b. apakah proyek STBI Anda merupakanmultimedia information retrieval system ? jelaskan arguentasi anda
