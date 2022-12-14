@@ -7,9 +7,11 @@ jawaban : untuk mengevaluasi prototype STBI ini kami menggunakan perhitungan pre
 3. Jelaskan perbedaan antara sistem rekomendasi dan sistem tanya jawab! menurut anda proyek STBI Anda masuk kategori mana ?
 jawaban : 
 
-4. a. buatlahh rangkuman lengkap proyek dari proyek STBI yang anda miliki. Rangkuman memiliki pembagian introduction, method, result, secision dan references!
+4. 
+a. buatlah rangkuman lengkap proyek dari proyek STBI yang anda miliki. Rangkuman memiliki pembagian introduction, method, result, secision dan references!
 jawaban : 
 
 Introduction 
+Seiring pesatnya kemajuan teknologi, teknologi informasi juga nengalami kemajuan yang signifikan. Banyaknya informasi dan data yang tersedia membuat peneliti dan ahli melakukan pengembangan dan pembuatan untuk sistem pencarian, hal ini dikarenakan sistem pencarian dapat memudahan untuk mengetahui berbagai macam informasi yang dibutuhkan. Sistem Temu Kembali Informasi (Information Retrieval) adalah proses menemukan materi yang biasanya dokumen dari data yang tidak terstruktur yang memenuhi kebutuhan informasi dimana Informasi memiliki banyak jenis seperti teks (termasuk data numerik), audio, video, dan multimedia lainnya. dari sebuah kumpulan koleksi yang tersimpan pada komputer
 
-b. apakah proyek STBI Anda merupakanmultimedia information retrieval system ? jelaskan arguentasi anda
+b. apakah proyek STBI Anda merupakan ultimedia information retrieval system ? jelaskan argumntasi anda
